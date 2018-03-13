@@ -1,6 +1,3 @@
-"# Laravel_VueJs_CRUD_Demo" 
-
-
 Server (demo_crud_api_server) => Laravel 5.6
 ============================================
 
